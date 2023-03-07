@@ -24,7 +24,8 @@
 - 💬 Ask me about **Django & Reactjs**
 
 - 📫 How to reach me **zahidosama502@gmail.com**
-- ⚡ Fun fact :- eat(); code(); sleep(); repeat();
+- ⚡ Fun fact :
+	     if ☕.empty( ):    	cup.refill( ); 
 
 <!-- - 📄 Know about my experiences <a href="https://github.com/100rabhcsmc/Me.io/blob/master/01SaurabhChavanReactNativeResume.pdf" target="blank">Resume</a> -->
 <br/>

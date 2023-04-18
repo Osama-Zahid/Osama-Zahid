@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently Working on Web App(ReactJs & Django)
 
-- 🌱 I’m currently learning ReactJs <a href="https://youtu.be/Dorf8i6lCuk" target="blank">React Crash Course</a>
+<!-- 🌱 I’m currently learning ReactJs <a href="https://youtu.be/Dorf8i6lCuk" target="blank">React Crash Course</a>-->
 
 <!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 

@@ -15,13 +15,13 @@
 
 <!-- - 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a> -->
 
-- 🌱 I’m currently Working on Web App(ReactJs & Django)
+- 🌱 I’m currently Working on Java Spring 
 
 <!-- 🌱 I’m currently learning ReactJs <a href="https://youtu.be/Dorf8i6lCuk" target="blank">React Crash Course</a>-->
 
 <!-- - 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
-- 💬 Ask me about **Django & Reactjs**
+- 💬 Ask me about **Java, Django & ReactJS**
 
 - 📫 How to reach me **zahidosama502@gmail.com**
 - ⚡ Fun fact :

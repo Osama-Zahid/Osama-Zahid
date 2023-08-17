@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Osama</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Django%20|%20React%20|%20AI%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Passionate+Coder%20|%20Software+Engineer;Full+Stack+Web+Developer;Java%20|%20Django%20|%20React%20|%20AI%20;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center">I'm a motivated software engineer with expertise who works for a reputable software company. I am knowledgeable on full-stack Django, and React Web apps. I like creating, coding, coming up with new ideas, and exploring. I enjoy learning new things and taking on new challenges. I adore making new friends, exchanging thoughts, and advancing positivism and knowledge.</h4>
